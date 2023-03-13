@@ -15,7 +15,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://edvingv.github.io/design-03-airport/
 
-Design: [Airport](edvingv.github.io/design-03-airport/)
+Design: [Airport](https://pin.it/r4N9f3K)
 
 ## 🎯 Project features/goals
 
